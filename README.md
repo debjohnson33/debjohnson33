@@ -10,7 +10,7 @@
 
 ## Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![](https://img.shields.io/badge/-React-#61DAFB?logo=react)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react)
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
