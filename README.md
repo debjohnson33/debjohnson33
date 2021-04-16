@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debjohnson33&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33)](https://github.com/anuraghazra/github-readme-stats)
 <!--
