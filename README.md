@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/deborah-r-johnson/
+
+Or check out my portfolio at: https://debthecoderjohnson.com/
+
 [![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjohnson33&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debjohnson33&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats)
