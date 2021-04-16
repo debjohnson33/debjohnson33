@@ -1,7 +1,6 @@
-[![Header](https://raw.githubusercontent.com/debjohnson33/debjohnson33/reactprogram.jpg "Header")](https://debthecoderjohnson/)
+<!-- [![](reactprogram.jpg)](https://debthecoderjohnson/) -->
 
 ### Hi there 👋
-
 
 <!-- Actual text -->
 
