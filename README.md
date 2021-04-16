@@ -29,6 +29,8 @@
 ![](https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
+![](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
