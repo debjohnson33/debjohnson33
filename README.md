@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/-Amazon-AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
