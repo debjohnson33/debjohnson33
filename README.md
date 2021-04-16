@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
