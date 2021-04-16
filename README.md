@@ -13,6 +13,10 @@
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
+
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
