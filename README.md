@@ -9,8 +9,8 @@
 [![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies and Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
