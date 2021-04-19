@@ -16,20 +16,6 @@ You can find me on [![LinkedIn][1.2]][1].
 
 Or check out my portfolio at: https://debthecoderjohnson.com/
 
-<a href="https://github.com/debjohnson33/debjohnson33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby&theme=dark" alt="Deb's Top Languages Used" />
-</a>
-
-<a href="https://github.com/debjohnson33/debjohnson33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debjohnson33&count_private=true&show_icons=true&theme=dark" alt="Deb's GitHub Stats" />
-</a>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debjohnson33&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/debjohnson33/debjohnson33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33&v=2&layout=compact&theme=dark" alt="
-Deb's WakaTime Stats" />
-</a>
-
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -53,6 +39,22 @@ Deb's WakaTime Stats" />
 ![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/debjohnson33/debjohnson33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby&theme=dark" alt="Deb's Top Languages Used" />
+</a>
+
+<a href="https://github.com/debjohnson33/debjohnson33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debjohnson33&count_private=true&show_icons=true&theme=dark" alt="Deb's GitHub Stats" />
+</a>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debjohnson33&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/debjohnson33/debjohnson33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33&v=2&layout=compact&theme=dark" alt="
+Deb's WakaTime Stats" />
+</a>
 
 <!--
 **debjohnson33/debjohnson33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
