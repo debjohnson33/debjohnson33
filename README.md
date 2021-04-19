@@ -16,13 +16,13 @@ You can find me on [![LinkedIn][1.2]][1].
 
 Or check out my portfolio at: https://debthecoderjohnson.com/
 
-[![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjohnson33&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjohnson33&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debjohnson33&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjohnson33&hide=ruby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Deb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debjohnson33&v=2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
