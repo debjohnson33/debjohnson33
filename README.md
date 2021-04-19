@@ -8,7 +8,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/debjohnson33/debjohnson/main/linkedinIcon.png (LinkedIn icon without padding)
+[1.2]: https://github.com/debjohnson33/debjohnson33/blob/7157c00d0d4d962f13ec3065e5af9e7a4adc5a99/linkedinIcon.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
