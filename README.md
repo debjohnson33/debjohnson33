@@ -1,6 +1,7 @@
 <!-- <a href='https://debthecoderjohnson/'><img src='reactprogram.jpg' alt='react program' width=960px></a> -->
+[![Header](headerDebJohnson.png "Header")](https://debthecoderjohnson/)
 
-### Hi there 👋
+I'm a Software Engineer and I enjoy working from home on projects with JavaScript, HTML, CSS, and React. When I'm not coding, I'm enjoying shows and movies while knitting on my latest project.
 
 <!-- Actual text -->
 
