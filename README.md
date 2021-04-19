@@ -1,4 +1,4 @@
-<!-- [![](reactprogram.jpg)](https://debthecoderjohnson/) -->
+<a href='https://debthecoderjohnson/'><img src='main/reactprogram.jpg' alt='react program' width=200px></a>
 
 ### Hi there 👋
 
